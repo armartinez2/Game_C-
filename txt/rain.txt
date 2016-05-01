@@ -1,0 +1,2 @@
+1 255 255 255 ./img
+RainProto.bmp 1
